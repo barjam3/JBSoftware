@@ -1,2 +1,1 @@
-# JBSoftware-
-Mouse Jigger 
+# JBSoftware
